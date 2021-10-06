@@ -5,7 +5,7 @@ tags:
   - professional brief
 description: >
   First week of 3rd year.
-hero: /uploads/me.jpg
+hero: /uploads/spaghetti.jpg
 published: true
 ---
 
@@ -13,6 +13,6 @@ published: true
 
 Am bean.
 
-![wonky normal map](/uploads/Snow_N_T.jpg)
+![wonky normal map](/uploads/spaghetti.jpg)
 
 **hihi**
