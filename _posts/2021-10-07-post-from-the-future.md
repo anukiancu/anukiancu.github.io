@@ -9,21 +9,15 @@ hero: /uploads/spaghetti.jpg
 overlay: purple
 published: true
 ---
-But can it break right away?
+Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum.
 {: .lead}
 
 <!–-break-–>
+<!--break-->
 
 hdfghf
-
-![wonky normal map](/uploads/spaghetti.jpg)
-
-![wonky normal map](/uploads/spaghetti.jpg)
-
-![wonky normal map](/uploads/spaghetti.jpg)
-
-![wonky normal map](/uploads/spaghetti.jpg)
-
-![wonky normal map](/uploads/spaghetti.jpg)
-
+```py
+def hello():
+  print("hello world")
+```
 **hihi**
