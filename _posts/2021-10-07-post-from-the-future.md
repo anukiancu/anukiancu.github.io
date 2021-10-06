@@ -13,11 +13,10 @@ Testing, testing, testing.
 {: .lead}
 
 Am bean.
-
-Break from here:
 <!--break-->
 
 hdfghf
+```
 ![wonky normal map](/uploads/spaghetti.jpg)
 
 ![wonky normal map](/uploads/spaghetti.jpg)
@@ -27,4 +26,5 @@ hdfghf
 ![wonky normal map](/uploads/spaghetti.jpg)
 
 ![wonky normal map](/uploads/spaghetti.jpg)
+```
 **hihi**
