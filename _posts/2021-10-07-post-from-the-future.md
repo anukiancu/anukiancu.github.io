@@ -17,7 +17,24 @@ Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 hdfghf
 ```py
-def hello():
-  print("hello world")
+from flask import url_for
+
+@app.route('/')
+def index():
+    return 'index'
+
+@app.route('/login')
+def login():
+    return 'login'
+
+@app.route('/user/<username>')
+def profile(username):
+    return f'{username}\'s profile'
+
+with app.test_request_context():
+    print(url_for('index'))
+    print(url_for('login'))
+    print(url_for('login', next='/'))
+    print(url_for('profile', username='John Doe'))
 ```
 **hihi**
