@@ -30,6 +30,7 @@ author:
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : anukiancu@gmail.com # change to your e-mail address
   github                    : anukiancu
+  artstation                : anukiancu
   photo                     : "uploads/me2.jpg"
   photo2x                   : "uploads/me.jpg"
 
