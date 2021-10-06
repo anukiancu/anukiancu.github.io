@@ -16,8 +16,6 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 <!–-break-–>
 
 hdfghf
-```
-![wonky normal map](/uploads/spaghetti.jpg)
 
 ![wonky normal map](/uploads/spaghetti.jpg)
 
@@ -26,5 +24,7 @@ hdfghf
 ![wonky normal map](/uploads/spaghetti.jpg)
 
 ![wonky normal map](/uploads/spaghetti.jpg)
-```
+
+![wonky normal map](/uploads/spaghetti.jpg)
+
 **hihi**
