@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Second Post
 tags:
   - professional-practice
