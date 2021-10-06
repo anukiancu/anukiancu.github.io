@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First Post
+title: A post from the future
 tags:
   - professional-practice
 description: >
-  First week of 3rd year.
+  Example text
 hero: /uploads/spaghetti.jpg
 overlay: purple
 published: true
