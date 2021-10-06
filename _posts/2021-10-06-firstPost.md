@@ -2,10 +2,11 @@
 layout: post
 title: First Post
 tags:
-  - professional brief
+  - professional-practice
 description: >
   First week of 3rd year.
 hero: /uploads/spaghetti.jpg
+overlay: purple
 published: true
 ---
 
