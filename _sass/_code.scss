@@ -144,8 +144,11 @@ figure, .figure {
 		color: #666666;
 	}
 	.s {
-		color: #BB4444;
+		color: #e2dfdf;
 	}
+  .n {
+    color: #a2a2a2;
+  }
 	.na {
 		color: #BB4444;
 	}
@@ -170,13 +173,13 @@ figure, .figure {
 		font-weight: bold;
 	}
 	.nf {
-		color: #00A000;
+		color: #cb92ff;
 	}
 	.nl {
 		color: #A0A000;
 	}
 	.nn {
-		color: #0000FF;
+		color: #d2d2d2;
 		font-weight: bold;
 	}
 	.nt {
@@ -256,7 +259,7 @@ figure, .figure {
 	.il {
 		color: #666666;
 	}
-  
+
   margin-bottom: 1.5rem;
   font-size: .75em;
   // /* Prevent code linebreaks and allow side-scrolling (much better readability on mobile) */
