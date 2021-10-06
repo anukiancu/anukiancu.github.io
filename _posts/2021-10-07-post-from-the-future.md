@@ -9,9 +9,6 @@ hero: /uploads/spaghetti.jpg
 overlay: purple
 published: true
 ---
-
-# Hello
-
 Testing, testing, testing. 
 {: .lead}
 
