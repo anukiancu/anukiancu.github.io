@@ -15,12 +15,9 @@ published: true
 Testing, testing, testing. 
 {: .lead}
 
-In-line break: <!--break-->
-
 Am bean.
 
-Break on its own:
-
+Break from here:
 <!--break-->
 
 hdfghf
