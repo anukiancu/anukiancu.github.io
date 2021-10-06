@@ -14,6 +14,8 @@ published: true
 
 Am bean.
 
+<!--break-->
+
 ![wonky normal map](/uploads/spaghetti.jpg)
 
 **hihi**
