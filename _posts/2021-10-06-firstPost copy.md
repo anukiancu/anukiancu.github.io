@@ -12,9 +12,9 @@ published: true
 
 # Hello
 
-Am bean.
+Am bean. <!--break-->
+This one has slightly more text than you'd usually see.
 
-<!--break-->
 
 ![wonky normal map](/uploads/spaghetti.jpg)
 
