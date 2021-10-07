@@ -5,7 +5,7 @@ tags:
   - professional-practice
 description: >
   Example text
-hero: /uploads/code.PNG
+hero: /uploads/code.jpg
 overlay: purple
 published: true
 ---
