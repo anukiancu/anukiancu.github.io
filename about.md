@@ -25,7 +25,7 @@ I'm a 21 year old studying Game Art at De Montfort University. My main focus is 
 * Engines: Unreal Engine 4 / Unity
 * Programming Languages: Python, MAXScript, Blueprints
 * Modeling: 3DSMax, zBrush
-* Texturing: Photoshop / Substance Painter/ Substance Designer
+* Texturing: Photoshop / Substance Painter / Substance Designer
 * Real-time rendering: Marmoset Toolbag / Unreal Engine 4
 
 
