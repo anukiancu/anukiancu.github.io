@@ -45,4 +45,14 @@ I decided to start the projects by making a function that takes the number of LO
     print(static_mesh.get_name())
     print(f"current LOD count: {lod_no}")
 ```
-This was surprisingly low effort. But if it works it works.
+Surprisingly enough, this just worked straight away. 
+
+## Structure
+I think as a beginner, project structure is something I really struggle with. For now, the plan is to keep making functions and testing that they work as I go, and then work on a UI for the tool and potentially some extra functionality. The most important thing is to first get all the data I require from the engine and then be able to put it all into a spreadsheet. I hear technical artists really like spreadsheets so I'm gonna join the fun.
+
+## Preferred outcomes and goals
+My main goal with this project is to get more comfortable using Python and to get used to the Unreal API, as I'm sure I'll be using it in the future too. Beyond that, I want to test my ability to time manage a project that I have no rough estimate how long it's actually going to take, given that I have to learn so many new things. 
+
+Another goal of mine is to finally keep my development diary (aka this blog) up to date with every issue, fix or implementation that I make.
+
+My next post will be about starting the Shader Museum project, as I wish to work on both at the same time, mainly to be able to take a break from code when I need it, or take a break from shader spaghetti nodes.
