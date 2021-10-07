@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A post from the future
+title: Hello World!
 tags:
   - professional-practice
 description: >
@@ -9,7 +9,7 @@ hero: /uploads/spaghetti.jpg
 overlay: purple
 published: true
 ---
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum.
+This is an example post I used to test out my shiny new blog!
 {: .lead}
 
 <!–-break-–>
