@@ -1,0 +1,11 @@
+---
+layout: post
+title: First look at the LOD Tool project 
+tags:
+  - professional-practice
+description: >
+  Example text
+hero: /uploads/code.JPG
+overlay: purple
+published: true
+---
