@@ -57,4 +57,3 @@ Another goal of mine is to finally keep my development diary (aka this blog) up 
 
 My next post will be about starting the Shader Museum project, as I wish to work on both at the same time, mainly to be able to take a break from code when I need it, or take a break from shader spaghetti nodes.
 
-Do trigger the rebuild tho.
