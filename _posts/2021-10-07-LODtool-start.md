@@ -29,7 +29,7 @@ It's all working now though, and I ***really*** hope I won't need to ask for mor
 
 I wasn't exactly aware that you need to enable some extra pluggins in Unreal to be able to run Python scripts, but we live and we learn. 
 
-![Plugins](/uploads/plugins.jpg)
+![Plugins](/uploads/plugins.JPG)
 
 After that, all you need to do is go into the **context menu** and select **File**>**Python**>**Execute Python Script**. If you're lucky enough and your script doesn't run into any runtime issues, you should be able to see it doing its thing in the **Output Log** that you can access in the same context menu, by selecting **Window**>**Developer Tools**>**Output Log**. 
 
