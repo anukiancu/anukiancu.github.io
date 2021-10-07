@@ -18,13 +18,15 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-I'm a 21 year old studying Game Art at De Montfort University in Leicester, UK. I do both 2D and 3D work, so you can expect to see bit of both here.
+I'm a 21 year old studying Game Art at De Montfort University. My main focus is Technical Art, but thanks to my art background I am also proficient in 3D software and the 3D development pipeline.
 
 ## Tools I Use
 
-* Modeling: 3DSMax
-* Texturing: Photoshop / Substance Painter
-* Real-time rendering: Marmoset Toolbag / Unreal Engine 4
 * Engines: Unreal Engine 4 / Unity
+* Programming Languages: Python, MAXScript, Blueprints
+* Modeling: 3DSMax, zBrush
+* Texturing: Photoshop / Substance Painter/ Substance Designer
+* Real-time rendering: Marmoset Toolbag / Unreal Engine 4
+
 
 </div>
