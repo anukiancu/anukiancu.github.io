@@ -1,40 +1,16 @@
 ---
 layout: post
-title: Hello World!
+title: First Week of Third Year
 tags:
   - professional-practice
 description: >
   Example text
-hero: /uploads/spaghetti.jpg
+hero: /uploads/code.png
 overlay: purple
 published: true
 ---
-This is an example post I used to test out my shiny new blog!
+After facing major burnout throughout the summer, I was really excited to come back to university for the final year of my course.
 {: .lead}
 
 <!–-break-–>
 <!--break-->
-
-hdfghf
-```py
-from flask import url_for
-
-@app.route('/')
-def index():
-    return 'index'
-
-@app.route('/login')
-def login():
-    return 'login'
-
-@app.route('/user/<username>')
-def profile(username):
-    return f'{username}\'s profile'
-
-with app.test_request_context():
-    print(url_for('index'))
-    print(url_for('login'))
-    print(url_for('login', next='/'))
-    print(url_for('profile', username='John Doe'))
-```
-**hihi**
