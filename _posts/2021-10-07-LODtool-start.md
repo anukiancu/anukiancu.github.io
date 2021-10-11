@@ -26,7 +26,7 @@ It's all working now though, and I ***really*** hope I won't need to ask for mor
 
 ## Getting the script to run in UE4
 
-I wasn't exactly aware that you need to enable some extra pluggins in Unreal to be able to run Python scripts, but we live and we learn. 
+I wasn't exactly aware that you need to enable some extra plugins in Unreal to be able to run Python scripts, but we live and we learn. 
 
 ![script](/uploads/plugins.JPG)
 
@@ -41,9 +41,9 @@ I decided to start the projects by making a function that takes the number of LO
 
 ```python
     def check_lods(static_mesh):
-    lod_no = unreal.EditorStaticMeshLibrary.get_lod_count(static_mesh)
-    print(static_mesh.get_name())
-    print(f"current LOD count: {lod_no}")
+        lod_no = unreal.EditorStaticMeshLibrary.get_lod_count(static_mesh)
+        print(static_mesh.get_name())
+        print(f"current LOD count: {lod_no}")
 ```
 Surprisingly enough, this just worked straight away. 
 
