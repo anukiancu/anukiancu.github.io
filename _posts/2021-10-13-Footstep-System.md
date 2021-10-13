@@ -13,9 +13,9 @@ published: true
 # The logic behind the system
 Before starting working on the actual blueprints, I made a clear list of things that I'm gonna need to make it work:
 
-- a footprint texture with a black background for each foot
+- a footprint opacity map for each foot
 - a footprint normal for each foot
-- deferred decal materials for each foot base colour texture using the `dbuffer translucent normal` blending mode
+- deferred decal materials for each foot using the `dbuffer translucent normal` blending mode
 - blueprints for each feet that uses a decal component with the materials created before
 
 # The process
