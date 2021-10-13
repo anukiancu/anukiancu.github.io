@@ -41,16 +41,16 @@ The first blueprint I made is using a decal component that has the footstep mate
 
 ![](/uploads/foot_blueprint.png)
 
-Next up, inside the **ThridPersonCharacter blueprint**, I added two plane components (these are going to display our decal). I parented them to the character mesh (CharacterMesh0) by dragging them under it, and added parent sockets to each of them (foot_l for the left foot plane, foot_r for the right foot plane).
+Next up, inside the **ThridPersonCharacter blueprint**, I added two plane components (these are going to display our decal). I parented them to the character mesh (`CharacterMesh0`) by dragging them under it, and added parent sockets to each of them, `foot_l` for the left foot plane, `foot_r` for the right foot plane.
 
 ![](/uploads/tp_blueprint1.png)
 
-After that, I headed over to **Mannequin>Animations>ThirdPersonRun** to set a couple notifies when the foot touches the ground in the animation. I'm going to use these later on in the ThirdPersonAnimation blueprint.
+After that, I headed over to **Mannequin>Animations>ThirdPersonRun** to set a couple notifies when the foot touches the ground in the animation. I'm going to use these later on in the **ThirdPersonAnimation blueprint**.
 
 ![](/uploads/notify.png)
 
 
-I can now go back to my **ThirdPersonCharacter blueprint** event graph to set up a couple custom events. I start by making a SpawnFootprintL event that spawns an actor from my BP_Left_Footprint (the decal component blueprint that contains the material). I then drag and drop a reference to my Foot L plane that I set up at the base of my character's foot, in order to be able to track its location. 
+I can now go back to my **ThirdPersonCharacter blueprint** event graph to set up a couple custom events. I start by making a `SpawnFootprintL` event that spawns an actor from my `BP_Left_Footprint` (the decal component blueprint that contains the material). I then drag and drop a reference to my `Foot L plane` that I set up at the base of my character's foot, in order to be able to track its location. 
 
 Initially, I thought the rotation of the footprint should be that of the plane, but thanks to [this](https://www.youtube.com/watch?v=8AZWZ1xaA78) tutorial I found out that it should actually just be the actor rotation.
 
@@ -58,7 +58,7 @@ I then went ahead and copy-pasted the code from the left foot and changed the re
 
 ![](/uploads/spawn_footprint.png)
 
-Now that that's set up, I headed over to the ThirdPersonAnimation blueprint event graph. The logic here is that I want the footprints to spawn only when the feet touch the ground. I do that by getting an Event Blueprint Begin Play that's casted to the ThirdPesonCharacter and an AnimNotify event for each foot. What this will do is esentially, every time the animation notify I previously set up in the run animation is called, it will trigger the custom events I just set up inside the ThirdPersonCharacter blueprint and spawn a footstep.
+Now that that's set up, I headed over to the **ThirdPersonAnimation blueprint** event graph. The logic here is that I want the footprints to spawn only when the feet touch the ground. I do that by getting an `Event Blueprint Begin Play` that's casted to the **ThirdPesonCharacter** and an `AnimNotify` event for each foot. What this will do is esentially, every time the animation notify I previously set up in the run animation is called, it will trigger the custom events I just set up inside the **ThirdPersonCharacter blueprint** and spawn a footstep.
 
 ![](/uploads/animation_bp.png)
 
