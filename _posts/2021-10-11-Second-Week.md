@@ -5,7 +5,7 @@ tags:
   - professional-practice
 description: >
   Example text
-hero: /uploads/shaderMuseum2.jpg
+hero: /uploads/snowglobe.gif
 overlay: purple
 published: true
 ---
