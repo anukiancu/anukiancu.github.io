@@ -15,7 +15,7 @@ Before starting working on the actual blueprints, I made a clear list of things 
 
 - a footprint texture with a black background for each foot
 - a footprint normal for each foot
-- deferred decal materials for each foot base colour texture using the `dbuffer translucent color,normal` blending mode
+- deferred decal materials for each foot base colour texture using the `dbuffer translucent normal` blending mode
 - blueprints for each feet that uses a decal component with the materials created before
 
 # The process
@@ -64,7 +64,7 @@ Now that that's set up, I headed over to the **ThirdPersonAnimation blueprint** 
 
 Phew, that was a lot. Surprisingly, when I hit play, everything worked accordingly. All I needed to do now was to adjust the sizes of the decal blueprints to match the size of the player's foot. That took a bit of playing around, but in the end I got it to match pretty well.
 
-![](/uploads/footsteps.gif)
+![](/uploads/footprintdemo2.gif)
 
 Hope you enjoyed my little (not so little) tutorial. It was a long process, but thankfully google is a thing nowadays.
 
