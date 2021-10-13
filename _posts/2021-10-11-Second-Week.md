@@ -28,7 +28,7 @@ Huge progress on this project last week. I made around 4 shaders, a snow one, an
 I subconsciously set the theme for my museum to be Winter (or something like that), as all my shaders seem to have to do with the season. I really have no clue how that happened, but I'll go with it. I'm a huge Christmas person anyway.
 
 
-![](/uploads/shaderMuseum2.jpg)
+![](/uploads/snowglobe.gif)
 
 
 
