@@ -68,6 +68,8 @@ Phew, that was a lot. Surprisingly, when I hit play, everything worked according
 
 Hope you enjoyed my little (not so little) tutorial. It was a long process, but thankfully google is a thing nowadays.
 
-Resources I haven't previously mentioned:
+### Resources I haven't previously mentioned:
+
+
 [Normal map only footprints](https://answers.unrealengine.com/questions/398942/normal-map-only-footprints.html) - this is where I got the idea to use a DBuffer Decal blending mode instead of translucent.
 [Unreal Engine 4 - Deforming Snow Tutorial](https://www.youtube.com/watch?v=rN4f-uVmYjc) - this was just general inspiration, I didn't end up doing this
