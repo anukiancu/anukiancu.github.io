@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Footstep System in Unreal Engine
+title: Footprint System in Unreal Engine
 tags:
   - professional-practice
 description: >
