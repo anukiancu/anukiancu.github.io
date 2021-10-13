@@ -52,7 +52,7 @@ After that, I headed over to Mannequin>Animations>ThirdPersonRun to set a couple
 
 I can now go back to my ThirdPersonCharacter blueprint event graph to set up a couple custom events. I start by making a SpawnFootprintL event that spawns an actor from my BP_Left_Footprint (the decal component blueprint that contains the material). I then drag and drop a reference to my Foot L plane that I set up at the base of my character's foot, in order to be able to track its location. 
 
-Initially, I thought the rotation of the footprint should be that of the plane, but thanks to [this](https://www.youtube.com/watch?v=8AZWZ1xaA78) tutorial I found out that it should actually just be the player rotation.
+Initially, I thought the rotation of the footprint should be that of the plane, but thanks to [this](https://www.youtube.com/watch?v=8AZWZ1xaA78) tutorial I found out that it should actually just be the actor rotation.
 
 I then went ahead and copy-pasted the code from the left foot and changed the reference and the class for the right foot (BP_Right_Footprint). 
 
@@ -67,3 +67,6 @@ Phew, that was a lot. Surprisingly, when I hit play, everything worked according
 ![](/uploads/footsteps.gif)
 
 Hope you enjoyed my little (not so little) tutorial. It was a long process, but thankfully google is a thing nowadays.
+
+Resources I haven't previously mentioned:
+https://answers.unrealengine.com/questions/398942/normal-map-only-footprints.html
