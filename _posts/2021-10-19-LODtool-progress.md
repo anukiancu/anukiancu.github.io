@@ -5,7 +5,7 @@ tags:
   - professional-practice
 description: >
   Example text
-hero: /uploads/code.JPG
+hero: /uploads/hero_LODtool_update.jpg
 overlay: purple
 published: true
 ---
