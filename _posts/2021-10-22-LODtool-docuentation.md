@@ -31,7 +31,7 @@ In order to run the LOD Validating Tool and get an output, you first need to sel
 ##  Okay but what do the buttons do?
 I named each button so that what pressing it does is self explanatory, but just to be sure I'll document that on here as well.
 ### Asset Operations:
-- `Get Mesh Name` will output **the name of the mesh(es)** you slected in the content browser
+- `Get Mesh Name` will output **the name of the mesh(es)** you selected in the content browser
 - `Get Bounding Diameter` will give you **the diameter of the bounding sphere** of the mesh(es)
 ### LOD Operations:
 - `Get Number of LODs` shows **the number of LODs** currently present on the mesh(es)
