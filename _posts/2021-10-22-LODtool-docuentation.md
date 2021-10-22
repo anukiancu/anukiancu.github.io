@@ -21,7 +21,7 @@ Anyway, enough talk, let's get into how to actually use the LOD Validating Tool.
 The LOD Validating Tool uses UE4's built in `Output Log` to display data to its user. Opening it should be as easy as navigating to `Window>Developer Tools>Output Log`. Make sure you `right click>Clear Log` before you run the tool, in order to see its output more clearly.
 
 ## Opening the UI
-First of all, make sure your project has the **Python Editor Script Plugin** enabled. As for the project that I shipped it with for university, the tool is located in the `Scripts` folder (within the Shader Museum project), and it is named `WBP_LODtool`. To run it, you need to right click it and select the first option at the top, `Run Editor Utility Widget`. This will then open this UI. 
+First of all, make sure your project has the **Python Editor Script Plugin** and **Editor Scripting Utilities** plugin enabled. As for the project that I shipped it with for university, it already has those two set up. The tool is located in the `Scripts` folder (within the Shader Museum project), and it is named `WBP_LODtool`. To run it, you need to right click it and select the first option at the top, `Run Editor Utility Widget`. This will then open this UI. 
 
 ![](/uploads/UI2.JPG)
 
