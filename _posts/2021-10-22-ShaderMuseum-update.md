@@ -5,7 +5,7 @@ tags:
   - professional-practice
 description: >
   Example text
-hero: /uploads//uploads/snowglobe.gif
+hero: /uploads/chonky_shader.png
 overlay: purple
 published: true
 ---
@@ -16,14 +16,18 @@ Creating a good shader implies a lot of research - from  the type of material to
 ## The Shader Creation Process
 The most essential part of my shader creation process is **iteration**. Whenever I get to a point where I like the way a shader behaves, I'll make a copy and continue experimenting from there, and so on and so forth. And just like that I end up with 15 material copies and 10000 material instances, but cleaning that up is a job for later.
 
+![](/uploads/material_instances.png)
+
 ### Ice
-I started with a Ice material based on a stylised ice reference I found online. The shader uses tesselation and world displacement to create an icicle effect, so I ended up attempting to make sime from it too. That didn't quite work out, as I couldn't find the right noise to use for the displacement, and no matter what I did it looked really spikey. I will eventually go back to it and figure it out, but for now I realised it doesn't go with the general theme of my museum which is Winter.
+![](/uploads/m_ice_setup.png)
+I started with a Ice material based on a stylised ice reference I found online. The shader uses tesselation and world displacement to create an icicle effect, so I ended up attempting to make sime from it too. 
+That didn't quite work out, as I couldn't find the right noise to use for the displacement, and no matter what I did it looked really spikey. I will eventually go back to it and figure it out, but for now I realised it doesn't go with the general theme of my museum which is Winter.
 ### Snow
 Then, still from the ice, I made snow, by changing the subsurface colour from blue to a light gray, and  adding parameters to change the U and V tilings of the normal maps, as well as a flatten normal node.
 
 From there I experimented a lot with an emissive shimmering glitter system I set up like so:
 
-![]()
+![](/uploads/snow_shader.png)
 
 The inspiration came from [this](https://www.artstation.com/blogs/ninaklos/la87/shader-museum-part-1-planning-sand-glitter) blog post, courtesy of Nina Klos. I decided to attempt to make my own version of the glitter effect she did for her sand shader, except my one was supposed to replicate the way snow glows in the light.
 
@@ -32,9 +36,11 @@ At this point it was very clear that the theme of my museum is Winter or Christm
 
 I then figured that I should just think about everything that makes me think of this theme. Since I'm going to Norway this winter, I thought I could make that the focus of my project. Well then, what does Norway have that other countries don't have? **Northern lights**. And reindeers, but I don't think that would make a good shader. Oh and good food.. **anyway**.
 
-I set up the base Northern Lights shader in a very simple but effective manner, by using an opacity map and a gradient to control the colours. From there, I wanted to experiment with dynamically changing the emissiveness in a blueprint, but I had no idea how one would go about doing that. An hour of Kat and I frantically trying to figure it out later, I finally found the solution. **Making a parameter collection**. By doing that, then creating a scalar parameter named `Emissive_control`, I was able to modulate it's value based on a timeline in blueprints. The result looks like this:
+I set up the base Northern Lights shader in a very simple but effective manner, by using an opacity map and a gradient to control the colours. 
+![](/uploads/northern_lights_shader.png)
+From there, I wanted to experiment with dynamically changing the emissiveness in a blueprint, but I had no idea how one would go about doing that. An hour of Kat and I frantically trying to figure it out later, I finally found the solution. **Making a parameter collection**. By doing that, then creating a scalar parameter named `Emissive_control`, I was able to modulate it's value based on a timeline in blueprints. The result looks like this:
 
-![]()
+![](/uploads/northern_lights.gif)
 
 
 ## The Museum Layout
