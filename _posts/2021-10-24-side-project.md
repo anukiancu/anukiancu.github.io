@@ -5,7 +5,7 @@ tags:
   - professional-practice
 description: >
   Example text
-hero: 
+hero: /uploads/asset_renaming2.png
 overlay: purple
 published: true
 ---
@@ -18,7 +18,7 @@ So I chose to make a little tool that takes all the assets you've selected in th
 
 After making sure that everything works properly in my own projects, I decided it would be time to share it with my classmates and see what they think about it. The first two versions of this tool didn't have a UI, so it wasn't too intuitive to use, as you would have to run it from the `context menu`. Later on however, I decided to give it a simple interface and have people try it out again. The response has been much better ever since.
 
-![]()
+![](/uploads/asset_renaming.png)
 
 Now, I realise a tool like this is nothing in the grand scheme of things and that most studios have probably had something like this for ages, but as a student and someone new to python, I think it was good practice.
 
