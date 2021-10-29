@@ -26,9 +26,8 @@ I experimented a bit with the layout of the presentation stands, intially having
 
 It took a bit more playing around to get it right, but I'm quite happy with what I've got so far.
 
-![](/uploads/museum_new_ss1.png)
-![](/uploads/museum_new_ss2.png)
-![](/uploads/museum_new_ss3.png)
+![](/uploads/museum_new_ss4.png)
+![](/uploads/museum_new_ss5.png)
 
 I distributed the presentation stands all around the sides of the igloo and kept the snowglobe in the middle of the room so it's clear that it's the centerpiece, the one asset that uses all the shaders I created.
 
