@@ -4,7 +4,7 @@ title: Side Project - Asset Renaming Tool
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/asset_renaming2.png
 overlay: purple
 published: true

@@ -4,7 +4,7 @@ title: Shader Museum - Shader Creation Process
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/chonky_shader.png
 overlay: purple
 published: true

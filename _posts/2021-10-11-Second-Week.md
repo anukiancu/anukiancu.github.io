@@ -4,7 +4,7 @@ title: Second Week Progress and Goals
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/snowglobe.gif
 overlay: purple
 published: true

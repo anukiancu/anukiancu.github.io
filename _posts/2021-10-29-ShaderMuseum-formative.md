@@ -4,7 +4,7 @@ title: Shader Museum - Formative Hand In
 tags:
   - professional-practice
 description: >
-  Example text
+  
 hero: /uploads/shader_museum_update.JPG
 overlay: purple
 published: true

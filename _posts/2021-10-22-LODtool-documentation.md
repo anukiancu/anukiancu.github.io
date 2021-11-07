@@ -4,7 +4,7 @@ title: LOD tool - How to Use It
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/code.JPG
 overlay: purple
 published: true

@@ -4,7 +4,7 @@ title: Footprint System in Unreal Engine
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/footstep_demo.png
 overlay: purple
 published: true

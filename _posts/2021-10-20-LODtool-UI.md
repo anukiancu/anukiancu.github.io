@@ -4,7 +4,7 @@ title: LOD Tool Progress - UI First Pass
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/hero_LODtool_update.jpg
 overlay: purple
 published: true

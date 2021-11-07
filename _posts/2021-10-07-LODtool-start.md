@@ -4,7 +4,7 @@ title: First look at the LOD tool project
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/code.JPG
 overlay: purple
 published: true

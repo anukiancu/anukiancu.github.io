@@ -4,7 +4,7 @@ title: First Week of Third Year
 tags:
   - professional-practice
 description: >
-  Example text
+
 hero: /uploads/code.JPG
 overlay: purple
 published: true
