@@ -10,7 +10,7 @@ overlay: purple
 published: true
 ---
 
-# **Always** Use Source Control
+# Source Control Is Essential
 Over the past year or so I familiarised myself with Git, having used it for code and one Unity project. Being in my final year of univeristy, the last thing I'd want to happen is to lose my progress and have to start over. I initially tried to use it for my university work this year, and while it worked really well for my LOD tool, it didn't handle my Shader Museum too well.
 
 
