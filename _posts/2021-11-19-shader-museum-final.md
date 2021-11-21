@@ -18,7 +18,7 @@ I can now finally say that I'm happy with the way the Shader Museum looks (consi
 
 ![](/uploads/shaders_final(4).png)
 
-I'll also quickly include a couple of pictures of each shader and the spaghetti nodes behind them.
+I'll also quickly include a couple of videos of each shader.
 
 <video autoplay loop muted playsinline>
   <source src="uploads/ice_depth.mp4" type="video/mp4">
@@ -29,15 +29,7 @@ I'll also quickly include a couple of pictures of each shader and the spaghetti 
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/fresh_snow.mp4" type="video/mp4">
-</video>
-
-<video autoplay loop muted playsinline>
   <source src="uploads/ezgif-5-fc24c71ede38.mp4" type="video/mp4">
-</video>
-
-<video autoplay loop muted playsinline>
-  <source src="uploads/northern_lights.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline>
@@ -45,14 +37,9 @@ I'll also quickly include a couple of pictures of each shader and the spaghetti 
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="water.mp4" type="video/mp4">
-</video>
-
-<video autoplay loop muted playsinline>
   <source src="ezgif-5-c25488474233.mp4" type="video/mp4">
 </video>
 
-![](/uploads/settled_snow2.png)
 ![](/uploads/settled_snow_closeup.png)
 
 # Final Thoughts
