@@ -18,10 +18,10 @@ The original idea was really simple - make a 1950's inspired diner environment, 
 # Speaking of lighting
 I've played around a bit with the setting of the diner, especially the lights. Here's a comparison between it during the day and night.
 
-![](uploads/night_entry.png)
-![](uploads/day_entry.png)
-![](uploads/night_chairs.png)
-![](uploads/day_chairs.png)
+![](/uploads/night_entry.png)
+![](/uploads/day_entry.png)
+![](/uploads/night_chairs.png)
+![](/uploads/day_chairs.png)
 
 As of right now, I think I prefer the night setting a bit more, but that's just because I'm more used to creating night environments, so I thought this would be a good opportunity to try something new.
 

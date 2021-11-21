@@ -18,11 +18,11 @@ Luckily, the project brief allows downloading 3D models (all assets are referenc
 ## Getting the Layout Just Right
 After finding a good looking igloo online, I deleted the top bit and set up the northern lights so you can see them while standing inside.
 
-![](uploads/shader_museum_update.JPG)
+![](/uploads/shader_museum_update.JPG)
 
 I experimented a bit with the layout of the presentation stands, intially having a couple on each side of the igloo. That didn't look quite right in my opinion
 
-![](uploads/shader_museum_update2.JPG)
+![](/uploads/shader_museum_update2.JPG)
 
 It took a bit more playing around to get it right, but I'm quite happy with what I've got so far.
 
