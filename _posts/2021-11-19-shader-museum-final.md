@@ -21,10 +21,6 @@ I can now finally say that I'm happy with the way the Shader Museum looks (consi
 I'll also quickly include a couple of videos of each shader.
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/ice_depth.mp4" type="video/mp4">
-</video>
-
-<video autoplay loop muted playsinline>
   <source src="uploads/ezgif-5-0a2daf30650f.mp4" type="video/mp4">
 </video>
 
