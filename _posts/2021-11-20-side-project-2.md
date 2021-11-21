@@ -32,3 +32,7 @@ Fear not, there's plenty of techy stuff already in this level, and I plan to add
   <source src="uploads/jukebox.webm" type="video/webm">
   <source src="uploads/jukebox.mp4" type="video/mp4">
 </video>
+
+I also made a minimap (WIP) and I plan on making a coke vending machine/fridge of sorts soon.
+
+### Stay tuned for more updates on this project. See you soon!
