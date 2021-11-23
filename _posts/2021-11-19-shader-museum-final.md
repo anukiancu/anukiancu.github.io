@@ -3,6 +3,7 @@ layout: post
 title: Shader Museum - Finally Final
 tags:
   - professional-practice
+  - projects
 description: >
   
 hero: /uploads/entry (1).png

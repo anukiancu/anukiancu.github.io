@@ -3,6 +3,7 @@ layout: post
 title: 1950's Diner - Personal Project
 tags:
   - professional-practice
+  - projects
 description: >
   
 hero: /uploads/night_entry.png

@@ -3,6 +3,7 @@ layout: post
 title: LOD tool - How to Use It 
 tags:
   - professional-practice
+  - projects
 description: >
 
 hero: /uploads/code.JPG
