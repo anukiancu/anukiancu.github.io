@@ -22,19 +22,19 @@ I can now finally say that I'm happy with the way the Shader Museum looks (consi
 I'll also quickly include a couple of videos of each shader.
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/ezgif-5-0a2daf30650f.mp4" type="video/mp4">
+  <source src="/uploads/ezgif-5-0a2daf30650f.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/ezgif-5-fc24c71ede38.mp4" type="video/mp4">
+  <source src="/uploads/ezgif-5-fc24c71ede38.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/ezgif-5-888888252faa.mp4" type="video/mp4">
+  <source src="/uploads/ezgif-5-888888252faa.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline>
-  <source src="ezgif-5-c25488474233.mp4" type="video/mp4">
+  <source src="/uploads/ezgif-5-c25488474233.mp4" type="video/mp4">
 </video>
 
 ![](/uploads/settled_snow_closeup.png)
