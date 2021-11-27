@@ -47,7 +47,7 @@ And how it's set up:
 
 ![](/uploads/caustics_handmade.PNG)
 
-I'm quite happy with this, but I might increase the chromatic aberration on the texture a little bit.
+This scene has a grand total of one directional light at the moment. I'm quite happy with it, but I might increase the chromatic aberration on the texture a little bit.
 
 # Project Goals
 The biggest goal for this project is to get the water to move with the player, probably using render targets. I would also like to add some custom specularity to it, so that it reflects the light in a pretty way.
