@@ -37,6 +37,10 @@ After careful consideration and a bit of research, I decided that my handmade `M
 
 ![](/uploads/motion-2-way.JPG)
 
+And my wird thought process:
+
+![](/uploads/thought_process.JPG)
+
 Now, I've finally started implementing the water mechanics, but they're not really behaving the way I need them to just yet. I'll definitely come back and update once they're fully functional!
 
 # 1950's Diner
