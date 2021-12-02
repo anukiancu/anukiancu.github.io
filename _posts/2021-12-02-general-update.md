@@ -25,7 +25,7 @@ Here's how I set up the material and the blueprint:
 And here it is in action:
 
 <video autoplay loop muted playsinline>
-  <source src="/uploads/snow_footstep_decal.mp4" type="video/mp4">
+  <source src="/uploads/snow_footstep_decal1.mp4" type="video/mp4">
 </video>
 
 # Zen Room
