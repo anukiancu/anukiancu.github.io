@@ -32,7 +32,7 @@ And here it is in action:
 After careful consideration and a bit of research, I decided that my handmade `Motion 4 Way` was a bit overkill, so insted I made a so called `Motion 2 Way`instead. It does exactly what it says on the tin, it creates the same sort of effect but only using the texture twice. I offset them both by (0, 0.5) and (0.5, 0) respectively, and made sure that they're panning in opposite directions, and vois-la:
 
 <video autoplay loop muted playsinline>
-  <source src="/uploads/motion-2-way.mp4" type="video/mp4">
+  <source src="/uploads/motion-2-way1.mp4" type="video/mp4">
 </video>
 
 ![](/uploads/motion-2-way.JPG)
