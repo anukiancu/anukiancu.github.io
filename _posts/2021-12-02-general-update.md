@@ -6,7 +6,7 @@ tags:
   - projects
 description: >
   
-hero: /uploads/caustics_texture.PNG
+hero: /uploads/code.JPG
 overlay: purple
 published: true
 ---
