@@ -20,7 +20,7 @@ Anyway, enough talk, let's get into how to actually use the LOD Validating Tool.
 # Demo
 
 <video autoplay loop muted playsinline>
-  <source src="uploads/LODtool.mp4" type="video/mp4">
+  <source src="/uploads/LODtool.mp4" type="video/mp4">
 </video>
 
 # The Step by Step Guide
