@@ -17,6 +17,12 @@ I'm not going to lie, I'm kind of sad that this project is over. I had so much f
 
 Anyway, enough talk, let's get into how to actually use the LOD Validating Tool.
 
+# Demo
+
+<video autoplay loop muted playsinline>
+  <source src="uploads/LODtool.mp4" type="video/mp4">
+</video>
+
 # The Step by Step Guide
 ## The Output Log
 The LOD Validating Tool uses UE4's built in `Output Log` to display data to its user. Opening it should be as easy as navigating to `Window>Developer Tools>Output Log`. Make sure you `right click>Clear Log` before you run the tool, in order to see its output more clearly.
