@@ -51,3 +51,9 @@ I'm very pleased with what I've achieved in these 4 weeks of university. I'm cur
 - [Spruce](https://www.turbosquid.com/3d-models/3d-spruce-model/786246)
 
 - [Igloo](https://3dsky.org/3dmodels/show/ighlu)
+
+- [Sled](https://www.turbosquid.com/3d-models/toy-sled-3ds-free/1113333)
+
+- [Deer Sculpt](https://www.turbosquid.com/3d-models/3d-deer-sculpt-1791447)
+
+- [Fish](https://www.turbosquid.com/3d-models/3d-model-of-smallmouth-bass/797405)
