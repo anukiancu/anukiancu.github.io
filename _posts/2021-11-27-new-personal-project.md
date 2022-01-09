@@ -13,7 +13,7 @@ published: true
 
 You may remember I was working on a 1950's diner project just about a week ago. Well, one morning I saw this photo on instagram and it immediately inspired me to wanna try doing something similar in Unreal Engine.
 
-![](/uploads/caustics_inspo)
+![](/uploads/caustics_inspo.png)
 
 # Using Lights to Achieve Caustics
 After gathering some reference, the idea was to use lights in order to get the effect of water caustics. Here's what that looked like:

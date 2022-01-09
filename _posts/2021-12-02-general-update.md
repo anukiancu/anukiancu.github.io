@@ -35,7 +35,7 @@ After careful consideration and a bit of research, I decided that my handmade `M
   <source src="/uploads/motion-2-way1.mp4" type="video/mp4">
 </video>
 
-![](/uploads/motion-2-way.JPG)
+![](/uploads/motion_2_way.JPG)
 
 And my wird thought process:
 
